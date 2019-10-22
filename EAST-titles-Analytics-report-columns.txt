@@ -1,0 +1,10 @@
+What fields we need in Analytics report
+Barcode
+Lifecycle = active
+Call number
+Description
+Title
+Author
+Publisher
+Date
+Location
